@@ -1,0 +1,8 @@
+/venv
+/.eggs
+/*/__pycache__
+/ml_deploy.egg-info
+/.pytest_cache
+/tests/.cache
+/tests/.pytest_cache
+/.ipynb_checkpoints
